@@ -93,7 +93,23 @@ python train.py --data_dir $DATA_PATH --epoch $EPOCH --batch_size $BATCH_SIZE --
 ## Weights
 - <a href='https://drive.google.com/file/d/11ISRNPL4K1kF7AS3Xy8-mDG9JDImWMhb/view?usp=drive_link'>Pseudo segmentation weights</a> ($\text{U}^{2}$-Net)
 
-## Reference
+## How to Cite
+```
+@InProceedings{KimYou_Scalp_MICCAI2025,
+        author = { Kim, Youngmin and Kim, Saejin and Moon, Hoyeon and Yu, Youngjae and Noh, Junhyug},
+        title = { { Scalp Diagnostic System With Label-Free Segmentation and Training-Free Image Translation } },
+        booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
+        year = {2025},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 15967},
+        month = {September},
+
+}
+```
+
+
+
+## Reference Works
 ```
 # U^2 Net
 @article{qin2020u2,
